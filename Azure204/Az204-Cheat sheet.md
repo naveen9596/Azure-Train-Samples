@@ -88,4 +88,4 @@ This cheat sheet provides key **Azure CLI** and **Azure PowerShell** commands re
 
 ---
 
-This cheat sheet covers **core commands** for **AZ-204 certification**. Would you like a PDF version? 🚀
+This cheat sheet covers **core commands** for **AZ-204 certification**.
